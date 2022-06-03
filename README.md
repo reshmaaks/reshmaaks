@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning master of computer application
 
-- 📫 How to reach me reshmakochuparambil14k@gmail.com
+- 📫 How to reach me reshmakochuparambil14@gmail.com
 
 - ⚡ Fun fact :- Love to Explore
 

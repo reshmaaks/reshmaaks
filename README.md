@@ -4,12 +4,12 @@
 <br>
 <br>
 
-<p><img align="center" src="#" alt="adam-pw" /></p>
+<<p><img align="center" src="#" alt="" /></p>
 <br>
 <br>
 
 
-- 🌱 I’m currently learning master of computer application
+- 🌱 Completed master of computer application
 
 - 📫 How to reach me reshmakochuparambil14@gmail.com
 

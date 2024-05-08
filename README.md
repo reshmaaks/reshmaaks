@@ -11,7 +11,7 @@
 
 - 🌱 Completed master of computer application
 
-- 📫 How to reach me reshmakochuparambil14@gmail.com
+- 📫 How to reach me reshmaks521@gmail.com
 
 - ⚡ Fun fact :- Love to Explore
 

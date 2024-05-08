@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Reshma K S</h1>
-<h3 align="center"> Iam a MCA student at Amal jyothi College Of Engineering,Kottayam.</h3>
+<h3 align="center"> Iam working at ESAF SMALL FINANCE BANK (IT Dept) Thrissur</h3>
 
 <br>
 <br>
